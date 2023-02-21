@@ -1,0 +1,18 @@
+h1, h2, p {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: rgb(165, 238, 171);
+}
+
+li {
+    position: relative;
+    list-style-type:disc;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+hr {
+    color: aliceblue;
+}
